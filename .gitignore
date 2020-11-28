@@ -1,0 +1,4 @@
+.env
+praw.ini
+gallery-dl*
+reddit/*
