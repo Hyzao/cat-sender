@@ -8,6 +8,7 @@ We gonna make them like cats by sending them one picture of cat every day
 # What it does
 Get the most upvoted image on the r/cats subreddit and send it to my parents group chat on messenger
 
+Feel free to use it, but read the disclaimer first
 # Setup
 
 Needed : python3.6
@@ -49,3 +50,9 @@ This project is based on a reddit scrapper made by [Lucian Vasile](https://githu
 Github repository : https://github.com/NotYourGuy/scraperr
 
 This project is also based on fbchat : https://github.com/fbchat-dev/fbchat
+
+# Disclaimer
+
+I am NOT responsible for any unlawful or hijacked use of this script
+
+This project is purely made for fun and shall be used only for personnal matters
