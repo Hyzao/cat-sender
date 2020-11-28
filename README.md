@@ -24,7 +24,7 @@ The path is hard coded, if you want to re-use with an other python version, you 
 
 PRAW - Reddit scrapper
 
-Create praw.ini using the praw.ini.example file and follow NotYourGuy excellent tutorial in his pre-requisites [here](https://github.com/NotYourGuy/scrapper#pre-requisites)
+Create praw.ini using the praw.ini.example file and follow NotYourGuy excellent tutorial in his pre-requisites [here](https://github.com/NotYourGuy/scraperr#pre-requisites)
 
 Fill the credentials [this way](https://www.storybench.org/how-to-scrape-reddit-with-python/)
 
@@ -46,6 +46,6 @@ Just add a cronjob for main.py and watch your parents go nuts on day 3 of "Daily
 
 This project is based on a reddit scrapper made by [Lucian Vasile](https://github.com/NotYourGuy)
 
-Github repository : https://github.com/NotYourGuy/scrapper
+Github repository : https://github.com/NotYourGuy/scraperr
 
 This project is also based on fbchat : https://github.com/fbchat-dev/fbchat
