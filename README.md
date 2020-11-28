@@ -6,7 +6,7 @@ My parents don't
 We gonna make them like cats by sending them one picture of cat every day
 
 # What it does
-Get the most upvoted image on the r/cats subreddit and send it to my parents on messenger
+Get the most upvoted image on the r/cats subreddit and send it to my parents group chat on messenger
 
 # Setup
 
