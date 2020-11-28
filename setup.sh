@@ -2,14 +2,14 @@
 
 sudo apt update
 
-sudo apt upgrade
+# Not sure if this is needed
+# apt upgrade
 
 sudo apt install -y python3-pip
-sudo pip3 --version
+
+pip3 --version
 
 pip3 install praw
-
-pip3 install gallery-dl
 
 pip3 install -U requests
 
