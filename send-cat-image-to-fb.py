@@ -31,7 +31,7 @@ thread_type = ThreadType.GROUP
 # Send cat picture to group chat
 client.sendLocalImage(image_path,
     message=Message(text="Voici le chat du jour - by Ian"),
-    thread_id=thread_id_girls,
+    thread_id=THREAD_ID,
     thread_type=thread_type,
 )
 
