@@ -2,23 +2,32 @@
 
 sudo apt update
 
-sudo apt install -Y python3-pip
+sudo apt upgrade
+
+sudo apt install -y python3-pip
 sudo pip3 --version
 
-sudo pip3 install praw
+pip3 install praw
 
-sudo pip3 install gallery-dl
+pip3 install gallery-dl
 
-sudo pip3 install -U requests
+pip3 install -U requests
 
-sudo pip3 install -U pathlib
+pip3 install -U pathlib
 
-sudo pip3 install fbchat
+pip3 install fbchat
 
-sudo apt install -Y snapd
+pip3 install python-dotenv
 
-sudo snap install -Y gallery-dl
+sudo apt install -y snapd
+
+sudo snap install -y gallery-dl
 
 sudo snap connect gallery-dl:removable-media
 
-sudo apt-get install -Y python-dev libxml2-dev libxslt1-dev zlib1g-dev
+sudo apt-get install -y python-dev libxml2-dev libxslt1-dev zlib1g-dev
+
+# Modification of the fbchat package in order to make it work
+sudo cp package-modifications/_state.py /usr/local/lib/python3.6/dist-packages/fbchat/_state.py
+
+
